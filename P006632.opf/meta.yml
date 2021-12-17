@@ -1,7 +1,7 @@
 id: P006632
 initial_creation_type: ocr
 created_at: 22/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-17 12:11:40.513937
 source_metadata:
   id: bdr:W21295
   title: རྒྱུད་སྡེ་ཀུན་བཏུས། （སྡེ་དགེ་པར་མ།）
@@ -187,3 +187,5 @@ source_metadata:
       volume_number: 30
       total_pages: 646
       base_file: v030.txt
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
